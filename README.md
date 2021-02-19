@@ -1,8 +1,7 @@
 # Calculator Project
 This was my first project using the reactJS library
-
-Hope you like!
 <br />
+Hope you like!
 <br />
 ## Available Scripts
 
